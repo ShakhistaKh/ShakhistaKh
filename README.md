@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakhistaKh
 - 👀 I’m Software Testing Engineer
-- 💡 <H3>I know HTML/CSS<H3>
+- 💡 >I know HTML/CSS<
 
 
 <!---
