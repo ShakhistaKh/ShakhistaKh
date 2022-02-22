@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ShakhistaKh
-- 👀 I’m interested in QA
+- 👀 I’m Software Testing Engineer
+- >< I know HTML/CSS
 
 
 <!---
