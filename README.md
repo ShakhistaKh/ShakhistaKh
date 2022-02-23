@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ShakhistaKh
-- </br>
 - 👀 I’m Software Testing Engineer
-- </br>
 - 💡 >I know HTML/CSS<
 
 
