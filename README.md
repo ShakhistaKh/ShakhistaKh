@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShakhistaKh
 - 👀 I’m Software Testing Engineer
-- 💡 >I know HTML/CSS<
+- 💡 >I know HTML/CSS/Bootstrap<
+- 🛠 Tools: Jira, Confluence, Test IT, Postman
 
 
 <!---
